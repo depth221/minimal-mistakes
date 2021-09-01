@@ -6,5 +6,5 @@ main:
     url: /project/
   - title: "이벤트"
     url: /event/
-  - title: "기여하기"
+  - title: "지도 만들기"
     url: https://osm.org/

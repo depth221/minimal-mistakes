@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "ko-KR"
 title                    : "OpenStreetMap Korea"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "누구나 만들 수 있는, 누구나 이용할 수 있는 지도" # site tagline that appears below site title in masthead
 name                     : "Dongha Hwang and OSM Contributors"
 description              : "A community for OpenStreetMap Korea."
 url                      : "http://osm.kr"
