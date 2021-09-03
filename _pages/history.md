@@ -13,7 +13,7 @@ excerpt: "2004년 오픈스트리트맵의 탄생부터 현재까지의 역사�
 더 자세한 역사는 오픈스트리트맵 위키의 [History of OpenStreetMap](https://wiki.openstreetmap.org/wiki/History_of_OpenStreetMap) 문서를 참고하세요.
 
 ### 2004년 8월 16일
-![A OSM server at 2004]({{site.url}}/assets/image/history/2004_osm.jpg)
+![A OSM server at 2004](http://osm.kr/assets/image/history/2004_osm.jpg)
 
 [Steve Coast](https://en.wikipedia.org/wiki/Steve_Coast)가 오픈스트리트맵 사이트를 만들었습니다.
 
