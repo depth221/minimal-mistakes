@@ -2,9 +2,11 @@
 main:
   - title: "소개"
     url: /about/
-  - title: "성과"
-    url: /project/
+  - title: "역사"
+    url: /history/
   - title: "이벤트"
     url: /event/
   - title: "지도 만들기"
     url: https://osm.org/
+  - title: "주간OSM"
+    url: https://weeklyosm.eu/
