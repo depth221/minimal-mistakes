@@ -7,7 +7,7 @@ date: 2021-09-03T11:48:41+09:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/image/history/2004_osm.jpg
+  overlay_image: /assets/image/history/2004_osm2x.png
 excerpt: "2004년 오픈스트리트맵의 탄생부터 현재까지의 역사를 알아봅니다."
 ---
 더 자세한 역사는 오픈스트리트맵 위키의 [History of OpenStreetMap](https://wiki.openstreetmap.org/wiki/History_of_OpenStreetMap) 문서를 참고하세요.

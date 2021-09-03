@@ -17,13 +17,37 @@ feature_row:
     btn_label: "더 보기"
     btn_class: "btn--primary"
 
-  - image_path: /assets/image/about_image.png
-    alt: "Gyeongbok Palace in OSM"
+  - image_path: /assets/image/history/2004_osm2x.png
+    alt: "OSM Server at 2004"
     title: "한국 오픈스트리트맵 커뮤니티의 역사"
     excerpt: '2004년 오픈스트리트맵의 탄생부터 현재까지의 역사를 알아봅니다.'
     url: "/history"
     btn_label: "더 보기"
     btn_class: "btn--primary"
+
+  - image_path: /assets/image/logo_osmkorea.jpg
+    alt: "Events of OSM Korea"
+    title: "한국 오픈스트리트맵 커뮤니티에서 진행한 이벤트"
+    excerpt: '대한민국에서 개최된 오픈스트리트맵 관련 이벤트를 소개합니다.'
+    url: "/event"
+    btn_label: "더 보기"
+    btn_class: "btn--primary"
+  
+  - image_path: /assets/image/editing.png
+    alt: "The editing window"
+    title: "오픈스트리트맵에 기여하기"
+    excerpt: '직접 오픈스트리트맵에 기여해 보세요!'
+    url: "https://osm.org/"
+    btn_label: "기여하기"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/image/weeklyosm4x.png
+    alt: "The WeeklyOSM logo"
+    title: "주간OSM"
+    excerpt: '매주 일요일 저녁마다 새로운 소식이 올라옵니다!'
+    url: "https://weeklyosm.eu/"
+    btn_label: "보러 가기"
+    btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+{% include feature_row type="left"%}
