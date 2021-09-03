@@ -2,6 +2,7 @@
 title: "소개"
 layout: splash
 permalink: /about/
+read_time: false
 date: 2021-08-29T09:14:41+09:00
 header:
   overlay_color: "#000"
